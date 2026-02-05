@@ -24,6 +24,10 @@ Move `resume <threadId>` before `--image` in `CodexExec.run`.
 - E2E thread.run: sameThreadId false -> true
 - E2E runStreamed: sameThreadId false -> true
 
+## Links
+- Bug report: https://github.com/cryptonerdcn/codex-resume-local-image-repro/issues/1
+- Repro repo: https://github.com/cryptonerdcn/codex-resume-local-image-repro
+
 ## Files changed
 - `sdk/typescript/src/exec.ts`
 - `sdk/typescript/tests/exec.test.ts`
