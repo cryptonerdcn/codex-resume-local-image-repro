@@ -1,0 +1,7 @@
+{
+  "name": "codex-resume-local-image-repro",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reproduction harness for Codex SDK resume + local_image bug",
+  "type": "module"
+}
