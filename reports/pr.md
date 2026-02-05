@@ -25,7 +25,8 @@ Move `resume <threadId>` before `--image` in `CodexExec.run`.
 - E2E runStreamed: sameThreadId false -> true
 
 ## Links
-- Bug report: https://github.com/cryptonerdcn/codex-resume-local-image-repro/issues/1
+- OpenAI issue: https://github.com/openai/codex/issues/10708
+- Bug report (repro repo): https://github.com/cryptonerdcn/codex-resume-local-image-repro/issues/1
 - Repro repo: https://github.com/cryptonerdcn/codex-resume-local-image-repro
 
 ## Files changed
